@@ -1,0 +1,19 @@
+:root {
+    --bg-color: #000;
+    --fundo-card: #121212;
+    --texto-icons: #b3b3b3;
+    --texto-escuro: #242424;
+    --texto-medium: #878787;
+    --texto-inscrevase: #a7a7a7;
+    --texto-claro: #fff;
+    --gradient-rodape: linear-gradient(to right, #ae2896, #509bf5);
+    --font-family: 'DM sans', sans-serif;
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 0, 0.7);
+    --bg-search: #242424;
+}
+
+body {
+    background-color: var(--bg-color);
+    font-family: var(--font-family);
+}
